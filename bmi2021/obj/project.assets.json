@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\31mar\\OneDrive\\Documents\\GitHub\\bmi2026lab\\bmi2021\\bmi2026.csproj",
+      "projectUniqueName": "C:\\Users\\31mar\\OneDrive\\Documents\\GitHub\\Dagobah\\bmi2021\\bmi2026.csproj",
       "projectName": "bmi2026",
-      "projectPath": "C:\\Users\\31mar\\OneDrive\\Documents\\GitHub\\bmi2026lab\\bmi2021\\bmi2026.csproj",
+      "projectPath": "C:\\Users\\31mar\\OneDrive\\Documents\\GitHub\\Dagobah\\bmi2021\\bmi2026.csproj",
       "packagesPath": "C:\\Users\\31mar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\31mar\\OneDrive\\Documents\\GitHub\\bmi2026lab\\bmi2021\\obj\\",
+      "outputPath": "C:\\Users\\31mar\\OneDrive\\Documents\\GitHub\\Dagobah\\bmi2021\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

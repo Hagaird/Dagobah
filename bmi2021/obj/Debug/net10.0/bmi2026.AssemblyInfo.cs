@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bmi2026")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38d1946cbf84750c5117a97efcdfb4b4113f5505")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fa4d9e5abe189d580158a6586573f89c8546dcb")]
 [assembly: System.Reflection.AssemblyProductAttribute("bmi2026")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bmi2026")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
