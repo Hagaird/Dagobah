@@ -22,10 +22,10 @@ jobs:
           dotnet-version: 8.0.x
 
       - name: Restore dependencies
-        run: dotnet restore bmi2021/bmi2025.sln
+        run: dotnet restore bmi2025.sln
 
       - name: Build
-        run: dotnet build bmi2021/bmi2025.sln --no-restore
+        run: dotnet build bmi2025.sln --no-restore
 
       - name: Test
-        run: dotnet test bmi2021/bmi2025.sln --no-build --verbosity normal
+        run: dotnet test bmi2025.sln --no-build --verbosity normal
